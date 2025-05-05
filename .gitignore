@@ -1,0 +1,19 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv/
+venv/
+
+# Virtual Environment
+.venv/
+venv/
+bin/
+lib/
+include/
+
+# Dependencies
+site-packages/
