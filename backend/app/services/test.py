@@ -1,0 +1,2 @@
+def bad():
+print("indent")
